@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+Будет удалено .idea/Soloplay.iml
+Будет удалено .idea/dbnavigator.xml
+Будет удалено .idea/misc.xml
+Будет удалено .idea/modules.xml
+Будет удалено .idea/workspace.xml
